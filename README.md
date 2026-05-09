@@ -17,7 +17,6 @@ J'ai structuré le planning autour de quatre grands pôles techniques :
 * **Finitions Extérieures :** Étanchéité (barrières d'humidité, travaux de zinc) et pose des menuiseries extérieures.
 * **Travaux Intérieurs :** Réalisation des plâtres, installation des cloisons et mise en service des équipements techniques.
 
-![Diagramme de Gantt Global - Vision TCE](LIEN_VERS_TON_IMAGE_GANTT_TCE)
 *<img width="1587" height="1122" alt="Capture d&#39;écran 2026-05-09 150139" src="https://github.com/user-attachments/assets/e57d2efb-bd0e-4aae-80d2-0fe100087072" />*
 
 ---
@@ -31,8 +30,7 @@ Ce planning métier s'étend de **juin à août 2024** et totalise **1 260 heure
 * **Niveaux RdC et R+1 :** Élévation des porteurs verticaux et coulage des dalles.
 * **Toiture et Escaliers :** Finalisation de la structure principale de l'ouvrage.
 
-![Planning Métier - Lot Gros Œuvre](LIEN_VERS_TON_IMAGE_GANTT_GO)
-*(Ici, insère la capture d'écran de ton planning détaillé du Gros Œuvre)*
+<img width="1587" height="1123" alt="Capture d&#39;écran 2026-05-09 150240" src="https://github.com/user-attachments/assets/1aaea945-b5ef-46b1-9bca-be3bfef5fba4" />
 
 ---
 
